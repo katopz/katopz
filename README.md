@@ -5,7 +5,7 @@
 /
 </div>
 <div align="center">
- <img src="https://github.com/gist-rs/gist-rs/blob/main/public/img/kat.png" width="32" height="32"/>
+ <img src="https://github.com/gist-rs/gist-rs/blob/main/public/img/kat.png?raw=true" width="32" height="32"/>
 </div>
 <div align="center">
   Nice to meet you!<br/>
