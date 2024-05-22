@@ -9,6 +9,6 @@
 </div>
 <div align="center">
   Nice to meet you!<br/>
-  I'm collecting my knowledge at <a href="https://gist.rs/">Gist of Rust</a><br/>
-  Currently looking for a <code>Rust+GenAI</code> remote job GMT+7.
+  I'm cooking my knowledges at <a href="https://gist.rs/">Gist of Rust</a><br/>
+  Feel free to taste it. 🦀🔥
 </div>
